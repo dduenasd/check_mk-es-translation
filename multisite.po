@@ -26,7 +26,7 @@ msgstr ""
 "Project-Id-Version: Check_MK Multisite translation 0.1\n"
 "Report-Msgid-Bugs-To: checkmk-en@lists.mathias-kettner.de\n"
 "POT-Creation-Date: 2011-05-13 09:42+0200\n"
-"PO-Revision-Date: 2011-05-13 09:42+0200\n"
+"PO-Revision-Date: 2016-04-11 16:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -34,6 +34,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/mkeventd.py:53
 msgid ""
@@ -1763,7 +1764,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1655
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/sidebar/shipped.py:72
 msgid "Addons"
-msgstr ""
+msgstr "Addons"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/check_parameters.py:6379
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/active_checks.py:1765
@@ -2019,7 +2020,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2092
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/datasources.py:227
 msgid "Alert Statistics"
-msgstr ""
+msgstr "Estadísticas de Alertas"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:1928
 msgid "Alert Statistics: Number of critical alerts"
@@ -2097,7 +2098,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2267
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2286
 msgid "All Aggregations"
-msgstr ""
+msgstr "Todas las agrupaciones"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/htdocs/dashboard.py:950
 msgid "All Dashboards"
@@ -2326,7 +2327,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:216
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/datasources.py:107
 msgid "All services"
-msgstr ""
+msgstr "Todos los servicios"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:162
 msgid "All services grouped by hosts."
@@ -2629,7 +2630,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/check_parameters.py:41
 msgid "Applications, Processes & Services"
-msgstr ""
+msgstr "Problemas de Host y Servicios"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/availability.py:630
 msgid "Apply"
@@ -3356,7 +3357,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2733
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/sidebar/shipped.py:72
 msgid "Business Intelligence"
-msgstr ""
+msgstr "Business Intelligence"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/htdocs/wato.py:18926
 msgid "Business Intelligence Rules"
@@ -10310,7 +10311,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:762
 msgid "Host Problems"
-msgstr ""
+msgstr "Problemas de Hosts"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/dashboard/builtin.py:57
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/dashboard/builtin.py:232
@@ -10550,7 +10551,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:968
 msgid "Host problems"
-msgstr ""
+msgstr "Host con problemas"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2118
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2148
@@ -10567,7 +10568,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1152
 msgid "Host search"
-msgstr ""
+msgstr "Búsqueda de Host"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:1346
 msgid "Host service level"
@@ -10769,7 +10770,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2475
 msgid "Hostname Aggregations"
-msgstr ""
+msgstr "Agrupaciones por nombre de Host"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/check_parameters.py:1728
 msgid "Hostname of the Device"
@@ -12339,7 +12340,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/inventory.py:603
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/inventory.py:641
 msgid "Inventory"
-msgstr ""
+msgstr "Inventario"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/check_parameters.py:44
 msgid "Inventory - automatic service detection"
@@ -16992,7 +16993,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1084
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1094
 msgid "Pending Services"
-msgstr ""
+msgstr "Servicios pendientes"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/htdocs/wato.py:4702
 msgid "Pending changes to activate"
@@ -17902,7 +17903,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2645
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2664
 msgid "Problem Aggregations"
-msgstr ""
+msgstr "Agrupaciones con problemas"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/visuals/filters.py:479
 msgid "Problem acknowledged"
@@ -17925,7 +17926,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/sidebar/shipped.py:72
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/sidebar/shipped.py:560
 msgid "Problems"
-msgstr ""
+msgstr "Problemas"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/mobile.py:168
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/mobile.py:419
@@ -18209,7 +18210,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1722
 msgid "Recently changed services"
-msgstr ""
+msgstr "Servicios que han cambiado recientemente"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/htdocs/wato.py:9101
 msgid "Recipient"
@@ -19290,7 +19291,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1654
 msgid "Search Graphs"
-msgstr ""
+msgstr "Búsqueda de Gráficos"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/check_mk_configuration.py:788
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/check_mk_configuration.py:874
@@ -19681,7 +19682,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1457
 msgid "Serv. by host groups"
-msgstr ""
+msgstr "Servicios por Grupos de Hosts"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/htdocs/wato.py:7415
 msgid "Server"
@@ -19780,11 +19781,11 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1505
 msgid "Service Groups (Grid)"
-msgstr ""
+msgstr "Grupos de Servicios (Cuadrícula)"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1483
 msgid "Service Groups (Summary)"
-msgstr ""
+msgstr "Grupos de Servicios (Resumen)"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:866
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:1347
@@ -19982,7 +19983,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/htdocs/wato.py:7921
 msgid "Service groups"
-msgstr ""
+msgstr "Grupos de Servicios"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/visuals/filters.py:366
 msgid "Service hard states"
@@ -20125,7 +20126,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1548
 msgid "Service problems"
-msgstr ""
+msgstr "Servicios con problemas"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2181
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2215
@@ -20144,7 +20145,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1233
 msgid "Service search"
-msgstr ""
+msgstr "Búsqueda de servicios"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:865
 msgid "Service service level"
@@ -20246,7 +20247,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/htdocs/logwatch.py:172
 #: /omd/sites/nagiosdge/share/check_mk/web/htdocs/mobile.py:125
 msgid "Services"
-msgstr ""
+msgstr "Servicios"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/check_parameters.py:110
 msgid "Services (Regular Expressions)"
@@ -20258,7 +20259,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1435
 msgid "Services by group"
-msgstr ""
+msgstr "Servicios por grupo"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:1252
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:1480
@@ -20700,7 +20701,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2408
 msgid "Single-Host Aggregations"
-msgstr ""
+msgstr "Agrupaciones de un solo Host"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2503
 msgid "Single-Host Aggregations of Host"
@@ -20709,7 +20710,7 @@ msgstr ""
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2707
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:2732
 msgid "Single-Host Problems"
-msgstr ""
+msgstr "Problemas de un solo Host"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/sorters.py:156
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:287
@@ -21239,7 +21240,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/builtin.py:1746
 msgid "Stale services"
-msgstr ""
+msgstr "Servicios desfasados"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:845
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/views/painters.py:1332
@@ -27183,7 +27184,7 @@ msgstr ""
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/sidebar/shipped.py:125
 msgid "Views"
-msgstr ""
+msgstr "Vistas"
 
 #: /omd/sites/nagiosdge/share/check_mk/web/plugins/wato/check_parameters.py:1513
 msgid "Viprinet router"
